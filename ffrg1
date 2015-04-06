@@ -1,0 +1,4 @@
+# Knotenname: ffrg1
+key "258ce961626ee4426bb07475d553ad4cb8d8b6c3b5d8e316bff5862c5402eb30";
+remote ipv4 "ffrg1.freifunk-ruhrgebiet.de" port 10001;
+

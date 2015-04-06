@@ -1,0 +1,4 @@
+# Knotenname: ffrg8
+key "67ff93fbaa2aef6324064c857afefc412b770d28ebee97ee53e55acfb8056f97";
+remote ipv4 "ffrg8.freifunk-ruhrgebiet.de" port 10001;
+

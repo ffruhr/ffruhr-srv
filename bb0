@@ -1,0 +1,4 @@
+# Knotenname: bb0
+key "7960fb08b97ab351de9c16fd6d80c8e258c750e1f7cac5028a1f8b13b1989008";
+remote ipv4 "bb0.freifunk-ruhrgebiet.de" port 10001;
+

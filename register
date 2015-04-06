@@ -1,0 +1,4 @@
+# Knotenname: register
+key "16679c474ab8ff02bdbcb556852e1d452d0b546a2ed45eeb85dc6f2a7c46e03d";
+remote ipv4 "register.freifunk.ruhr" port 10001;
+
