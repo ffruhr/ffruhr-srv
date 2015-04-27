@@ -1,4 +1,4 @@
 # Knotenname: ffrg11
 key "d4f8fae3c709595302802367921a8166cb62eee60d342ebfd634abba785f3bad";
-remote ipv4 "85.14.244.128" port 10001;
+remote 85.14.244.128:10001;
 
