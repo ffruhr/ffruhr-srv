@@ -1,3 +1,3 @@
 # Knotenname: ffrg3-5
 key "fdd1d52c779168f08af03c45e52bce56d392e7b0a52aba9e93084c19daa0a926";
-remote ipv4 "ffrg3-5.freifunk.ruhr" port 10001;
+remote ipv4 "85.14.255.25" port 10001;
