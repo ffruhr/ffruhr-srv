@@ -1,4 +1,4 @@
 # Knotenname: dns
 key "c4e1ac7cf8357b3623e00e2f7f70c96b2823f1fc68546bf1c40d9a1672b07c38";
-remote ipv4 "dns.freifunk.ruhr" port 10001;
+remote ipv4 "82.207.138.33" port 10001;
 
