@@ -1,4 +1,4 @@
 # Knotenname: develop
 key "edca1cf29e135009c1ed1b1317d2bb12c13b3efbc9b6732bf42e4bcb8359b233";
-remote ipv4 "82.207.138.38" port 10001;
+remote 82.207.138.38:10001;
 
