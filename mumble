@@ -1,4 +1,3 @@
 # Knotenname: mumble
 key "1435fb3a93e93aea2e7b1efdcac5e10857386d055adcc52921f4bbbd1d7f7d2d";
-remote ipv4 "82.207.138.39" port 10001;
-
+remote 82.207.138.39:10001;
