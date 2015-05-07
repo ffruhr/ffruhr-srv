@@ -1,0 +1,3 @@
+# Knotenname: bb01
+key "f7feecde10dc2b462e3b123375e42974ffb51f59c41fbe1bf365aa9859313618";
+remote ipv4 "bb01.freifunk.ruhr" port 10001;
